@@ -16,6 +16,15 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 
 ---
 
+## 🤝 Professional Strengths
+
+- Analytical Thinking & Structured Problem Solving  
+- Business-Oriented Insight Generation  
+- Data Storytelling & Visualization Clarity  
+- Attention to Detail in Data Cleaning
+
+---
+
 ## 📊 Featured Projects
 
 ### 🔹 Python EDA – Financial Loan Analysis
